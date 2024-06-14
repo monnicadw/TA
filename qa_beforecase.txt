@@ -2,7 +2,8 @@ import numpy as np
 import streamlit as st                                                  
 from sklearn.feature_extraction.text import CountVectorizer, TfidfTran  
 import pandas as pd                                                     
-import os                                                               
+import os
+scikit-learn                                                             
 from sklearn.metrics import cohen_kappa_score   
 Correctness : Extent to which a program satisfies its specifications and fulfills the user’s mission objectives.
 Reliability: Extent to which a program can be expected to perform its intended function with Extent to which a program can be expected to perform its intended function with required precision. Reliability in engineering terms is the ability of a product or component to continue to perform its intended role over a period of time to predefined conditions. And the same applies to the systems environment where reliability is measured in terms of the mean time between failures, the mean time to repair, the mean time to recover, the probability of failure and the general availability of the system.
