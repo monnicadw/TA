@@ -1,10 +1,3 @@
-import numpy as np                                                      
-import streamlit as st                                                  
-from sklearn.feature_extraction.text import CountVectorizer, TfidfTran  
-import pandas as pd                                                     
-import os
-scikit-learn
-
 The Idvar4CL should accurately identify causal loop variables to ensure the fulfillment of the user's mission objectives in system dynamics modeling using Software version 2.0 with enhanced machine learning algorithms for improved variable identification.
 The Idvar4CL must consistently identify causal loop variables with the required precision to ensure reliable performance in systems thinking applications using Database Management System (DBMS) version 4.5 with enhanced data processing capabilities for precise variable identification.
 The Idvar4CL can efficiently identify causal loop variables with minimal computing resources to optimize performance in systems thinking applications using Hardware version 3.0 with optimized processing power and efficiency for resource-efficient variable identification.
